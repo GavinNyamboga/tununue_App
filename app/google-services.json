@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651044104136",
+    "firebase_url": "https://tununue-78c40.firebaseio.com",
+    "project_id": "tununue-78c40",
+    "storage_bucket": "tununue-78c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651044104136:android:d1a29a57f3fbda1f",
+        "android_client_info": {
+          "package_name": "com.dev.tununue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651044104136-fdvd6gi66rv6dh5dmgu2f1kiuc7jmojn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.tununue",
+            "certificate_hash": "9c4eb8844287c243e4c3a7955528df9d6772e0a5"
+          }
+        },
+        {
+          "client_id": "651044104136-j18pus2hdn3h1c6jhpt8ff26gldu0e5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiL8OzxtLgs1ItRgdC49O_mD7UXxUhfV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651044104136-j18pus2hdn3h1c6jhpt8ff26gldu0e5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
